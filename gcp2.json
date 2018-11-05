@@ -1,13 +1,13 @@
 {
   "type": "service_account",
-  "project_id": "peaceful-oath-219123",
-  "private_key_id": "9af3916d1d6f2295c8a62800085ee99b93ee42dd",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCglDH+/+3DyYDQ\n0khG/6UUkMItJfh5FM4a7QfJmy6IASBSr3NTwxsTeunFkEb/SeCTNCJ0+FbKed8I\nhKpqZABHhOIA+keJKzNbj9BOpCdgw8ckzBQD8QdIys/ivA6dRJjmyYZbtiRZZFmf\nQMXf3J1TGGWLVxvSm4plqjYWwA3VSbndvo5mrLYRLqsYfrxzHarvf/3cJ+WgM5Z3\nVSUTobdYGa9oOwO+aVR9X+K0oG5893CJpP3YVm+wq9+R8BlwO2n/gLpuy0gz93Aa\nBgsgngAGECbli9/+KMCsBqc72TRu33R1nzUakg9RMm9jQfPHMpSBxCdPLQgVEI3U\nAnVTqF9fAgMBAAECggEARv2tasRfq86SXf+RR54ur7xdtBMU2gbaJapD5pvuAt+o\nmBWMAWyAtGiDID4sPSG+oKWMVDUUPbiKY1wvcRCb1QKI3hDH/nr0Xhbi61mENTHo\ngTqd4K4237YWGPG17k5M4L8YYMRSJpkITDEZKeKBRSLEhckxejcchNyuw/kNRIz7\nsxfyC4+xdanoLmJm9sSrMv/I8H6zRn6oQy1lF9ZYKCEhxhGemRBTdptxZNF2VpoL\nv6yB2udrv4lXlFhjQPwMbVtWZKOph4m8ffEHsJ10K/cLg1UGOQ4sPAbEc5CLtw1M\nTifYI+Qol83B+kbTD46nDFv22tWEyBPwfxxSHwpLFQKBgQDSZKwIwc26Bl073FCV\n4I/gmjm28cVypoIcnz6U5dlIisofb9hWKhy2s2H7EPTQauiUTXDZUZLvcKRka9Hr\ncrQoLUg/201iSe/A5nVCjHCxUTrYkJfIsjZPriZBNpqPwPOEYUFuOfzFGXPjYHeP\nPDWH9EnFkCfgfYjMx9kRvTeAuwKBgQDDYy5DyZFeFGADNAvbPPYvGRBlz7ehnxsz\ngT7WkgvQSTuYOtXBskwJkkinjnCHEPsqu9CasyJIv9GOVXkP98hRvCs8gp/AHQt2\nG7WGg2fXVlsj0fXHM2FiP2W6lEkErrCyKyJt9kJBxo5xbtSTyKjUvNiOCEOzhpzK\niDqtqIGTrQKBgHIReuRUjwGoqavmyxo3YkpX06rIclCyziBOhlOcOq4F8YgRz60H\nsAGuSBUjIFhPXkHpqqFohM2kuLxpaKrKybpusplMgSwlAgQH7tNh6Ud5zvnTizeY\nx7FzrfH1dN8zsdO4Fw14Cv+hyR8iEjBqaGuJmuWuPrCL3zuHrrzbZdg5AoGAGeqs\n91bkTltbhPFBZVpHuWWUtDyCOhD1tbY+FI4YvQ8JtZ6QPfoddeOOeZM+P9wzxK5W\n9D4wnP+8lymlPkX6r0TLY2JcOEph+8+fG3GQs5KD0lOGS174WuTX5JDIwrM9QtTP\n41AX58ujl05BKj0ij91gyC42dLi1UXQSfHhuf50CgYAkxZ0DVgb9b7PNSVm6GC92\no2DpAloDTcayemO/rbw6BsZmTKUCYvQE1P3VdpV7WQF3JKJsUQWByWRTzC1R8fjH\nZ/x3nBcyrHimepDlljqPK7qq7vA32AVL7OsOaT4wnIeo3u1ePo6/EjDMncz87RVe\na+fEZmuJbywEdwIFda/7AQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "terraform@peaceful-oath-219123.iam.gserviceaccount.com",
-  "client_id": "101626629427638685180",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40peaceful-oath-219123.iam.gserviceaccount.com"
+  "project_id": "your project id",
+  "private_key_id": "your private key id",
+  "private_key": "your key here",
+  "client_email": "your@.iam.gserviceaccount.com",
+  "client_id": "your client id",
+  "auth_uri": "authorization url",
+  "token_uri": "your token address",
+  "auth_provider_x509_cert_url": "certification from gcp",
+  "client_x509_cert_url": "client url"
 }
 
